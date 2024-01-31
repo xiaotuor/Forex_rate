@@ -1,5 +1,5 @@
 # Forex_rate
-本项目利用web自动化在[中国银行外汇牌价网站]（https://www.boc.cn/sourcedb/whpj）上自动查询某时间下某货币对人民币的现汇卖出价，拥有四种模式，默认为给某一日期和某一货币标准符号，输出的结果保存在result.txt中,其他三种模式为不同的批处理模式，输出的结果保存在results.txt中。
+本项目利用web自动化在[中国银行外汇牌价网站](https://www.boc.cn/sourcedb/whpj)上自动查询某时间下某货币对人民币的现汇卖出价，拥有四种模式，默认为给某一日期和某一货币标准符号，输出的结果保存在result.txt中,其他三种模式为不同的批处理模式，输出的结果保存在results.txt中。
 ## Getting Started
 ### Prerequisites
 Python带有selenium的环境即可
@@ -11,7 +11,7 @@ input.txt为三种批处理模式的输入文件
 
 search_forex_rate.py文件为查询时运行的文件
 
-标准符号大部分[来自](https://www.11meigui.com/tools/currency)，该网站上没有的部分来自搜索引擎。
+标准符号大部分来自[嘻嘻IT](https://www.11meigui.com/tools/currency)，该网站上没有的部分来自搜索引擎。
 ## Running the tests
 ### Default
 在终端运行如下命令：
